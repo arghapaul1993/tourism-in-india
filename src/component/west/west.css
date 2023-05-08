@@ -1,0 +1,50 @@
+.banner1{
+    border: 3px solid pink;
+    height: 450px;
+    width: 100%;
+    background: url('../images/wbbanner.jpg')  ;
+    opacity: 0.8;
+  
+    }
+    .tourTitles{
+        font-size: 50px;
+        color: rgb(254, 252, 253);
+        text-align: center;
+    }
+
+    .title{
+        font-size: 40px;
+        text-align: center;
+    }
+    .newspaper{
+        column-count: 3;
+    }
+
+    .catogoryTitle{
+        text-align: center;
+        background-color: blanchedalmond;
+        font-size: 40px;
+    }
+
+    .catogaryDiv{
+        display: flex;
+        justify-content:space-between;
+        margin: 10px 0px;
+        padding: 10px 15px;
+        background-color: rgb(238, 241, 244);
+    }
+    .textWBCat{
+        display: flex;
+        align-items: center;
+        align-content: center;
+        font-size: 25px;
+        padding: 10px 20px;
+
+
+    }
+
+    .wbimages{
+        height: 350px;
+        width: 550px;
+        border-radius: 10px;
+    }
